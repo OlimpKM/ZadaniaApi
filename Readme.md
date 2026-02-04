@@ -2,9 +2,8 @@
 
 System demonstracyjny do zarządzania zadaniami zbudowany w architekturze klient-serwer. Projekt obejmuje zabezpieczone API w technologii .NET oraz lekki frontend w czystym JavaScript.
 
-## Wersja na Microsoft Azure
 ![Aplikacja na Microsoft Azure](https://zadaniaapi-fga4bkb6h3bubqap.canadacentral-01.azurewebsites.net)
-* Uwaga: Pierwsze uruchomienie może zająć od 10 do 90 sekund (wynika to z ograniczeń darmowego planu F1 Free / tzw. "cold start").
+> Uwaga: Pierwsze uruchomienie może zająć od 10 do 90 sekund (wynika to z ograniczeń darmowego planu F1 Free / tzw. "cold start").
 
 
 ## 🚀 Kluczowe Funkcjonalności
